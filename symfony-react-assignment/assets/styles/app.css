@@ -1,0 +1,196 @@
+.App {
+  text-align: center;
+}
+
+.Header {
+  display: flex;
+  align-items: center;
+  background-color: rgb(251, 250, 247);
+  border-bottom: 1px solid #455a64;
+  box-shadow: 0 4px 2px -2px rgb(188, 187, 187);
+}
+
+.HomeImage {
+  text-align: left;
+  width: 30%;
+}
+
+.Home {
+  margin-left: 20px;
+}
+
+.Title {
+  width: 40%;
+}
+
+.BasketImage {
+  text-align: right;
+  width: 30%;
+}
+
+.BasketImage label {
+  color: #455a64;
+}
+
+.HeaderName {
+  color: #ffc107;
+  text-shadow: 2px 2px #455a64a9;
+}
+
+.Cart {
+  width: 8%;
+  margin-right: 35px;
+}
+
+.StoreHomepage {
+  display: flex;
+  align-items: center;
+  height: 80vh;
+}
+
+.Product {
+  border: 1px solid #adb6bb;
+  margin: 1%;
+  border-radius: 25px;
+  width: 25%;
+  height: 230px;
+}
+
+.Product:hover {
+  background-color: rgb(251, 250, 247);
+}
+
+.NoImage {
+  margin-top: 15%;
+}
+
+.Name {
+  color: rgb(86, 86, 86);
+}
+
+.Price {
+  color: rgb(227, 40, 40);
+}
+
+.Add {
+  border: none;
+  border-radius: 25px;
+  color: white;
+  background-color: #ffc107;
+}
+
+.Add:hover {
+  background-color: grey;
+}
+
+.Basket {
+  height: 80vh;
+  position: relative;
+}
+
+.BasketTitles {
+  text-align: left;
+  margin-top: 70px;
+  border-bottom: 1px solid #455a64;
+}
+
+.BasketNameTitle {
+  margin-left: 23%;
+  font-weight: bold;
+  font-size: larger;
+  color: #455a64;
+}
+
+.BasketPriceTitle {
+  float: right;
+  margin-right: 26%;
+  font-weight: bold;
+  font-size: larger;
+  color: #455a64;
+}
+
+.ProductBasket {
+  text-align: left;
+  margin-top: 10px;
+  border-bottom: 1px solid #455a64;
+}
+
+.BasketName {
+  margin-left: 20%;
+}
+
+.BottomDiv {
+  position: absolute;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+}
+
+.RemovedProducts {
+  height: 80vh;
+}
+
+.Remove {
+  background-color: tomato;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  margin-right: 25%;
+  float: right;
+}
+
+.Remove:hover {
+  background-color: grey;
+}
+
+.Footer {
+  height: 100px;
+  background-color: #455a64;
+  color: white;
+}
+
+.Footer p {
+  display: inline-block;
+  line-height: normal;
+  vertical-align: middle;
+}
+
+h3 {
+  color: #455a64;
+}
+
+.ProductRemoved {
+  text-align: left;
+  margin-top: 10px;
+  border-bottom: 1px solid #455a64;
+}
+
+.RemovedName {
+  margin-left: 20%;
+}
+
+.RemovedCount {
+  float: right;
+  margin-right: 25%;
+}
+
+.ProductRemovedTitle {
+  text-align: left;
+  margin-top: 70px;
+  border-bottom: 1px solid #455a64;
+}
+
+.RemovedNameTitle {
+  margin-left: 23%;
+  font-weight: bold;
+  font-size: larger;
+  color: #455a64;
+}
+
+.RemovedCountTitle {
+  float: right;
+  margin-right: 24%;
+  font-weight: bold;
+  font-size: larger;
+  color: #455a64;
+}
