@@ -7,3 +7,19 @@ Build a shopping basket that helps you get this data. You are free to use the la
 **Timing**
 
 You have 3 weeks to accomplish the assignment. You decide yourself how much time and effort you invest in it, but one of our colleagues tends to say: "Make sure it is good" ;-). Please send us (jobs@madewithlove.be) an email when you are ready with the assignment. Please mention your name, Github username and a link to what we need to review.
+
+# Technical assignment done by Carlos Escat
+
+The assignment was completed with **PHP Symfony** for the Backend and **React using React Hooks** for the Frontend.
+
+**Screenshohts of the project**
+
+![](Screenshot1.png)
+
+![](Screenshot2.png)
+
+![](Screenshot3.png)
+
+![](Screenshot4.png)
+
+![](Screenshot5.png)
