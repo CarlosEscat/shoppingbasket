@@ -14,10 +14,6 @@ The assignment was completed with **PHP Symfony** for the Backend and **React us
 
 **Screenshohts of the project**
 
-![](Screenshot1.png)
-
-![](Screenshot2.png)
-
 ![](Screenshot3.png)
 
 ![](Screenshot4.png)
